@@ -1,0 +1,14 @@
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\bin\Release\veritabanı.mdb
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\bin\Release\Kütüphane.exe.config
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\bin\Release\Kütüphane.exe
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\bin\Release\Kütüphane.pdb
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\Release\Kütüphane.Form1.resources
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\Release\Kütüphane.Menu2.resources
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\Release\Kütüphane.menu3.resources
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\Release\Kütüphane.menu4.resources
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\Release\Kütüphane.Menü1.resources
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\Release\Kütüphane.Properties.Resources.resources
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\Release\Kütüphane.csproj.GenerateResource.cache
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\Release\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\Release\Kütüphane.exe
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\Release\Kütüphane.pdb

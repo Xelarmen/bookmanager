@@ -1,0 +1,14 @@
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\bin\x86\Debug\veritabanı.mdb
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\bin\x86\Debug\Kütüphane.exe.config
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\bin\x86\Debug\Kütüphane.exe
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\bin\x86\Debug\Kütüphane.pdb
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\x86\Debug\Kütüphane.Form1.resources
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\x86\Debug\Kütüphane.Menu2.resources
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\x86\Debug\Kütüphane.menu3.resources
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\x86\Debug\Kütüphane.menu4.resources
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\x86\Debug\Kütüphane.Menü1.resources
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\x86\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\x86\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\x86\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\x86\Debug\Kütüphane.exe
+C:\Users\Abdulkadir\Desktop\Yeni klasör (4)\Yeni klasör (3)\Proje\Kütüphane\Kütüphane\obj\x86\Debug\Kütüphane.pdb
